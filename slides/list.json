@@ -1,0 +1,21 @@
+[
+    "index.md",
+    {
+        "filename": "notice.md",
+        "attr": {
+            "id": "notice"
+        }
+    },
+    {
+        "filename": "author.md",
+        "attr": {
+            "id": "author"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "#ffffff"
+        }
+    }
+]
