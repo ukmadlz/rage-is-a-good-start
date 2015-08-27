@@ -39,10 +39,36 @@
             }
         }
     ],
+    [
+        {
+            "filename": "hackference.md",
+            "attr": {
+                "data-background": "#027394"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/oh-yeah.gif"
+            }
+        }
+    ],
+    ["bit-of-details.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "#ffffff"
+            "data-background": "images/to-birmingham.gif"
         }
-    }
+    },
+    "1-of-2.md",
+    "only-3-day-conference-hack-outside-london.md",
+    "3rd-year.md",
+    "30-speakers.md",
+    "20-apis.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/no-idea-shrug.gif"
+        }
+    }]
 ]

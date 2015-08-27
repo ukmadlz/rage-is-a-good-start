@@ -36,3 +36,6 @@ a {
   text-transform: none; }
   .reveal h1 a, .reveal h2 a, .reveal h3 a, .reveal h4 a {
     color: #222222 !important; }
+    .reveal section img {
+      background: none;
+    }
