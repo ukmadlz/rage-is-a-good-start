@@ -53,22 +53,111 @@
             }
         }
     ],
-    ["bit-of-details.md",
+    [
+        "bit-of-details.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/to-birmingham.gif"
+            }
+        },
+        "1-of-2.md",
+        "only-3-day-conference-hack-outside-london.md",
+        "3rd-year.md",
+        "30-speakers.md",
+        "20-apis.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/no-idea-shrug.gif"
+            }
+        }
+    ],
+    "index.md",
+    ["a-bit-of-history.md",
+    "2012.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/to-birmingham.gif"
+            "data-background": "images/kingsofcodetnw.png"
         }
     },
-    "1-of-2.md",
-    "only-3-day-conference-hack-outside-london.md",
-    "3rd-year.md",
-    "30-speakers.md",
-    "20-apis.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/no-idea-shrug.gif"
+            "data-background": "images/thumbs-up.gif"
+        }
+    },
+    "nuts-to-this.md",
+    "full-twitter-hustle.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/ace-looking.gif"
+        }
+    },
+    "hackedio.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/hacksocnotts.jpg"
+        }
+    },
+    "moar-hustle.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/i-go-mental.jpg"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/i-go-mental.jpg"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/i-go-mental.jpg"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/people-turn-up.jpg"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/talks-are-done.jpg"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/people-build.jpg"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/judging-all.jpg"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/i-regret-this.gif"
+        }
+    },
+    "i-ask-something-stupid.md",
+    "who-wants-to-do-this-next-year.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/mind-blown.gif"
         }
     }]
 ]
