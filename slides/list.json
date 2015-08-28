@@ -88,6 +88,12 @@
             "data-background": "images/thumbs-up.gif"
         }
     },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/fez-cool.gif"
+        }
+    },
     "nuts-to-this.md",
     "full-twitter-hustle.md",
     {
