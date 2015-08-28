@@ -149,6 +149,12 @@
     {
         "filename": "blank.md",
         "attr": {
+            "data-background": "images/people-present.jpg"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
             "data-background": "images/judging-all.jpg"
         }
     },
