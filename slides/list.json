@@ -193,11 +193,20 @@
             }
         }
     ],
-    ["remember-to-build-out-your-team.md",
+    [
+        "remember-to-build-out-your-team.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/build-out-your-team.gif"
+            }
+        }
+    ],
+    ["keep-talking-to-everyone.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/build-out-your-team.gif"
+            "data-background": "images/just-talking.gif"
         }
     }]
 ]
