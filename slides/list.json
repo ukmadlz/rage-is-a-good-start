@@ -221,11 +221,28 @@
         },
         "they-will-help.md"
     ],
-    ["give-value-to-all.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/everyone-gets-something.gif"
+    [
+        "give-value-to-all.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/everyone-gets-something.gif"
+            }
         }
-    }]
+    ],
+    [
+        "work-in-the-open.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/work-in-the-open.gif"
+            }
+        }
+    ],
+    "random-thoughts.md",
+    [
+        "cheeky-plug.md",
+        "hackference-url.md"
+    ],
+    "the-end.md"
 ]
