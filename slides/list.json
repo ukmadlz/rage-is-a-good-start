@@ -74,102 +74,107 @@
         }
     ],
     "index.md",
-    ["a-bit-of-history.md",
-    "2012.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/kingsofcodetnw.png"
+    [
+        "a-bit-of-history.md",
+        "2012.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/kingsofcodetnw.png"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/thumbs-up.gif"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/fez-cool.gif"
+            }
+        },
+        "nuts-to-this.md",
+        "full-twitter-hustle.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/ace-looking.gif"
+            }
+        },
+        "hackedio.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/hacksocnotts.jpg"
+            }
+        },
+        "moar-hustle.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/i-go-mental.jpg"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/i-go-mental.jpg"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/i-go-mental.jpg"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/people-turn-up.jpg"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/talks-are-done.jpg"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/people-build.jpg"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/people-present.jpg"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/judging-all.jpg"
+            }
+        },
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/i-regret-this.gif"
+            }
+        },
+        "i-ask-something-stupid.md",
+        "who-wants-to-do-this-next-year.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/mind-blown.gif"
+            }
         }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/thumbs-up.gif"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/fez-cool.gif"
-        }
-    },
-    "nuts-to-this.md",
-    "full-twitter-hustle.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/ace-looking.gif"
-        }
-    },
-    "hackedio.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/hacksocnotts.jpg"
-        }
-    },
-    "moar-hustle.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/i-go-mental.jpg"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/i-go-mental.jpg"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/i-go-mental.jpg"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/people-turn-up.jpg"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/talks-are-done.jpg"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/people-build.jpg"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/people-present.jpg"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/judging-all.jpg"
-        }
-    },
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/i-regret-this.gif"
-        }
-    },
-    "i-ask-something-stupid.md",
-    "who-wants-to-do-this-next-year.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/mind-blown.gif"
-        }
-    }]
+    ],
+    "context-is-applied.md",
+    "disclaimer.md",
+    "make-the-legend-continue.md"
 ]
