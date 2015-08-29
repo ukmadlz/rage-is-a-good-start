@@ -211,11 +211,14 @@
             }
         }
     ],
-    ["keep-in-contact-with-the-sponsors.md",
-    {
-        "filename": "blank.md",
-        "attr": {
-            "data-background": "images/please-sir.gif"
-        }
-    }]
+    [
+        "keep-in-contact-with-the-sponsors.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/please-sir.gif"
+            }
+        },
+        "they-will-help.md"
+    ]
 ]
