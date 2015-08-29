@@ -175,11 +175,20 @@
         "dont-follow-my-own-advice.md"
     ],
     "make-the-legend-continue.md",
-    "dont-do-it-alone.md",
+    [
+        "dont-do-it-alone.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/joffery-death.gif"
+            }
+        }
+    ],
+    ["dont-take-it-personally.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/joffery-death.gif"
+            "data-background": "images/harder-i-try.gif"
         }
-    }
+    }]
 ]
