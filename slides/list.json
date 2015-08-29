@@ -169,8 +169,17 @@
         }
     ],
     "context-is-applied.md",
-    "disclaimer.md",
-    "warning.md",
+    [
+        "disclaimer.md",
+        "warning.md",
+        "dont-follow-my-own-advice.md"
+    ],
     "make-the-legend-continue.md",
-    "dont-do-it-alone.md"
+    "dont-do-it-alone.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/joffery-death.gif"
+        }
+    }
 ]
