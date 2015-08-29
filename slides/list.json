@@ -202,11 +202,30 @@
             }
         }
     ],
-    ["keep-talking-to-everyone.md",
+    [
+        "keep-talking-to-everyone.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/just-talking.gif"
+            }
+        }
+    ],
+    [
+        "keep-in-contact-with-the-sponsors.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/please-sir.gif"
+            }
+        },
+        "they-will-help.md"
+    ],
+    ["give-value-to-all.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/just-talking.gif"
+            "data-background": "images/everyone-gets-something.gif"
         }
     }]
 ]
