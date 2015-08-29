@@ -220,5 +220,12 @@
             }
         },
         "they-will-help.md"
-    ]
+    ],
+    ["give-value-to-all.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/everyone-gets-something.gif"
+        }
+    }]
 ]
