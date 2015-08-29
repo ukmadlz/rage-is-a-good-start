@@ -184,11 +184,20 @@
             }
         }
     ],
-    ["dont-take-it-personally.md",
+    [
+        "dont-take-it-personally.md",
+        {
+            "filename": "blank.md",
+            "attr": {
+                "data-background": "images/harder-i-try.gif"
+            }
+        }
+    ],
+    ["remember-to-build-out-your-team.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/harder-i-try.gif"
+            "data-background": "images/build-out-your-team.gif"
         }
     }]
 ]
