@@ -239,7 +239,13 @@
             }
         }
     ],
-    "random-thoughts.md",
+    ["random-thoughts.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/random-hugh.jpg"
+        }
+    }],
     [
         "cheeky-plug.md",
         "hackference-url.md"
