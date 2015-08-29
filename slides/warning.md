@@ -1,3 +1,3 @@
 #  Warning!
 
-##  May contain handwaing
+##  May contain handwaving
